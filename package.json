@@ -1,0 +1,14 @@
+{
+  "name": "intro-node-examples",
+  "version": "0.0.1",
+  "description": "Tuts Plus An Introduction to Node lesson Examples",
+  "dependencies" : {
+    "mocha"      : "1.4.x",
+    "step"       : "*",
+    "express"    : "*",
+    "underscore" : "*",
+    "prettyjson" : "*",
+    "mongodb"    : "*",
+    "socket.io"  : "*"
+  }
+}

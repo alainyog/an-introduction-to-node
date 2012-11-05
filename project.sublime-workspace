@@ -1,0 +1,481 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"py",
+				"python-playground"
+			],
+			[
+				"all",
+				"allowCrossDomain"
+			],
+			[
+				"de",
+				"defaultNum"
+			],
+			[
+				"item",
+				"itemName"
+			],
+			[
+				"ar",
+				"argv"
+			],
+			[
+				"print",
+				"printResult"
+			],
+			[
+				"fi",
+				"fileName"
+			],
+			[
+				"dir",
+				"dirName"
+			],
+			[
+				"ca",
+				"callWithMsg"
+			],
+			[
+				"f",
+				"failed"
+			],
+			[
+				"prin",
+				"printUsage"
+			],
+			[
+				"l",
+				"language"
+			],
+			[
+				"la",
+				"languages"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 49.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"toggle",
+				"View: Toggle Side Bar"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"gith",
+				"GitHub: Open Gist in Editor"
+			],
+			[
+				"git",
+				"GitHub: Open Gist in Editor"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"gis",
+				"Gist: Open Gist"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"gist",
+				"Gist: Open Gist"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"togg",
+				"View: Toggle Side Bar"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"setting",
+				"Preferences: Settings - User"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade Package"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"create",
+				"Create Xiki Buffer"
+			],
+			[
+				"xiki",
+				"Create Xiki Buffer"
+			],
+			[
+				"xi",
+				"Create Xiki Buffer"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"packag",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/chitacan/Documents/TutsPlus/an_introdunction_to_node/todo.md",
+		"/Users/chitacan/Documents/TutsPlus/getting_started_with_python/lesson_18/gui.py",
+		"/Users/chitacan/Documents/TutsPlus/getting_started_with_python/lesson_19/madlib.py",
+		"/Users/chitacan/Documents/TutsPlus/getting_started_with_python/lesson_19/setup.py",
+		"/Users/chitacan/Documents/TutsPlus/getting_started_with_python/readme.md",
+		"/Users/chitacan/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/chitacan/Dropbox/wiki/ssh-tunneling.md",
+		"/Users/chitacan/Documents/TutsPlus/getting_started_with_python/lesson_17/web.py",
+		"/Users/chitacan/Documents/TutsPlus/getting_started_with_python/setup.py",
+		"/Users/chitacan/Documents/TutsPlus/getting_started_with_python/lesson_14/exceptions.py",
+		"/Users/chitacan/Documents/TutsPlus/getting_started_with_python/lesson_16/scrape.py",
+		"/Users/chitacan/Documents/TutsPlus/getting_started_with_python/lesson_15/web.py",
+		"/Users/chitacan/Documents/TutsPlus/getting_started_with_python/lesson_8/scope.py",
+		"/Users/chitacan/Documents/TutsPlus/getting_started_with_python/lesson_13/oop2.py",
+		"/Users/chitacan/Documents/TutsPlus/getting_started_with_python/lesson_12/oop1.py",
+		"/Users/chitacan/Documents/TutsPlus/getting_started_with_python/h3_request.py",
+		"/Users/chitacan/Desktop/aa/h3_request.html",
+		"/Users/chitacan/Documents/CodeSchool/Real_Time_Web_with_NODEJS/hack_server_nodejs/hack_server.js",
+		"/Users/chitacan/Desktop/aa/server.js",
+		"/Users/chitacan/Documents/CodeSchool/Journey_Into_Mobile/lost_world_test_page/app.js",
+		"/Users/chitacan/Desktop/h3_request.html",
+		"/Users/chitacan/Documents/TutsPlus/getting_started_with_python/lesson_8/recursion.py",
+		"/Users/chitacan/Documents/TutsPlus/getting_started_with_python/lesson_11/test.txt",
+		"/Users/chitacan/Documents/TutsPlus/getting_started_with_python/lesson_11/crud.py",
+		"/Users/chitacan/Documents/TutsPlus/getting_started_with_python/lesson_11/pickletest.py",
+		"/Users/chitacan/Documents/TutsPlus/getting_started_with_python/lesson_11/pickle.py",
+		"/Users/chitacan/Library/Application Support/Sublime Text 2/Packages/Color Scheme - Default/Twilight.tmTheme",
+		"/Users/chitacan/Documents/TutsPlus/getting_started_with_python/lesson_9/test.txt",
+		"/Users/chitacan/Documents/TutsPlus/getting_started_with_python/lesson_9/re.py",
+		"/Users/chitacan/Documents/TutsPlus/getting_started_with_python/lesson_9/os.py",
+		"/Users/chitacan/Documents/TutsPlus/getting_started_with_python/lesson_9/sys.py",
+		"/Users/chitacan/Documents/TutsPlus/getting_started_with_python/lesson_7/functions.py",
+		"/Users/chitacan/Documents/TutsPlus/getting_started_with_python/loops_while.py",
+		"/Users/chitacan/Documents/TutsPlus/getting_started_with_python/lesson_6/loops.py",
+		"/Users/chitacan/Documents/TutsPlus/getting_started_with_python/lesson_5/if.py",
+		"/Users/chitacan/Documents/TutsPlus/getting_started_with_python/lesson_5/if_lang.py",
+		"/Users/chitacan/Library/Application Support/Sublime Text 2/Packages/Gist/Gist.sublime-settings",
+		"/Users/chitacan/Library/Application Support/Sublime Text 2/Packages/User/Gist.sublime-settings",
+		"/Users/chitacan/Desktop/untitled.TODO",
+		"/Users/chitacan/Documents/workspace/devnote/runtest.js",
+		"/Users/chitacan/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/chitacan/Documents/workspace/devnote/app.coffee",
+		"/Users/chitacan/Documents/workspace/devnote/fileApp.coffee",
+		"/Users/chitacan/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/chitacan/Documents/workspace/devnote/doc/zz.emberjs/backbone_vs_ember.html",
+		"/Users/chitacan/git/vim/README.md",
+		"/Users/chitacan/Desktop/project/router.js",
+		"/Users/chitacan/Desktop/project/app.js",
+		"/Users/chitacan/Desktop/project/css/style.css",
+		"/Users/chitacan/Desktop/무제",
+		"/Users/chitacan/폴더",
+		"/Users/chitacan/Desktop/zencode.html",
+		"/Users/chitacan/Documents/TutsPlus/30_Days_to_Learn_jQuery/day2.html",
+		"/Users/chitacan/Documents/workspace/devnote/doc/api/gitfs.md",
+		"/Users/chitacan/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/chitacan/Documents/development/ZenCodingCheatSheet.pdf",
+		"/Users/chitacan/–",
+		"/Users/chitacan/n",
+		"/Users/chitacan/Documents/workspace/lakumi/examples/impress.js-clone/index.html",
+		"/Users/chitacan/Documents/workspace/lakumi/examples/impress.js-clone/js/impress.js",
+		"/Users/chitacan/Documents/workspace/facebook-js-sdk-test/index.html",
+		"/Users/chitacan/Documents/workspace/try_git/index.html",
+		"/Users/chitacan/Library/Application Support/Sublime Text 2/Packages/Whitespaces/Whitespaces.sublime-settings",
+		"/Users/chitacan/Dropbox/terminal/.bash_profile",
+		"/Users/chitacan/Library/Application Support/Sublime Text 2/Packages/Coffeescript/Coffeescript.tmLanguage ",
+		"/Users/chitacan/Library/Application Support/Sublime Text 2/Packages/CoffeeScript/CoffeeScript.tmLanguage "
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sayHello",
+			"dirName",
+			"#!",
+			"Exception",
+			"line",
+			"number",
+			"defaultNumber",
+			"prices",
+			"MAX_ARGUMENTS",
+			"require",
+			"socket.io",
+			"socket",
+			"util",
+			"ctrl+shift",
+			"alt+1",
+			"ctrl+j",
+			"sit",
+			"configure",
+			"(?<=')connection(?=')",
+			"express.+",
+			"express",
+			"util",
+			",",
+			"ul",
+			"4",
+			"fileApp",
+			"cursor",
+			"require",
+			"workingPage",
+			"i18n",
+			"workingpage",
+			"workingPage",
+			"i18n",
+			"highlight",
+			"i18n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"set",
+				"lesson_19/setup.py"
+			],
+			[
+				"madlib",
+				"lesson_19/madlib.py"
+			],
+			[
+				"gui",
+				"lesson_18/gui.py"
+			],
+			[
+				"we",
+				"lesson_17/web.py"
+			],
+			[
+				"web",
+				"lesson_17/web.py"
+			],
+			[
+				"scra",
+				"lesson_16/scrape.py"
+			],
+			[
+				"sc",
+				"lesson_8/scope.py"
+			],
+			[
+				"ex",
+				"lesson_14/exceptions.py"
+			],
+			[
+				"oop",
+				"lesson_13/oop2.py"
+			],
+			[
+				"pc",
+				"lesson_11/pickletest.py"
+			],
+			[
+				"pic",
+				"lesson_11/pickle.py"
+			],
+			[
+				"crud",
+				"lesson_11/crud.py"
+			],
+			[
+				"re.",
+				"lesson_9/re.py"
+			],
+			[
+				"sys.",
+				"lesson_9/sys.py"
+			],
+			[
+				"os",
+				"lesson_9/os.py"
+			],
+			[
+				"rec",
+				"lesson_8/recursion.py"
+			],
+			[
+				"scop",
+				"lesson_8/scope.py"
+			],
+			[
+				"func",
+				"lesson_7/functions.py"
+			],
+			[
+				"se",
+				"setup.py"
+			],
+			[
+				"lesson_7",
+				"lesson_7/functions.py"
+			],
+			[
+				"lo",
+				"lesson_6/loops_for.py"
+			],
+			[
+				"app",
+				"app.coffee"
+			],
+			[
+				"",
+				"runtest.js"
+			],
+			[
+				"app.",
+				"app.coffee"
+			],
+			[
+				"doc/api/gi",
+				"doc/api/gitfs.md"
+			],
+			[
+				"doc/api/",
+				"doc/api/gitfs.md"
+			],
+			[
+				"index",
+				"index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true
+}
