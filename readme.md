@@ -20,6 +20,24 @@
 * lesson 14 : child process
 * lesson 15 : tip & trouble shooting
 
+## useful things
+
+### setup.js
+
+* following command will setup for new lesson.
+
+```
+$ ./setup.js [directory] [file1] [file2]...
+```
+
+* following command will test `setup.js`.
+
+```
+$ make test
+```
+
+
+
 ## requirements
 
 * make suer you have `node.js` version `0.8.14` or above.
