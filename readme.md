@@ -19,3 +19,8 @@
 * lesson 13 : nodester
 * lesson 14 : child process
 * lesson 15 : tip & trouble shooting
+
+## requirements
+
+* make suer you have `node.js` version `0.8.14` or above.
+* type `npm install` before get cracking.
